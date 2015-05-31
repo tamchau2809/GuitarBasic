@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guitar Basic</string>
+    <string name="chordsActivity">Hợp Âm</string>
+    <string name="aboutUs">Thông Tin</string>
+    <string name="aboutUs_act">Hope You Like It!</string>
+    <string name="tuner">Máy Chỉnh Âm</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1_name">Hợp Âm</string>
+    <string name="btn2_name">Máy Chỉnh Âm</string>
+    <string name="btn3_name">Thông Tin</string>
+    <string name="main_title">Guitar Basic</string>
+    <string name="chords_search_name">Search Your Song Here</string>
+
+</resources>
