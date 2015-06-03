@@ -13,7 +13,7 @@
         android:layout_marginTop="144dp"
         android:textStyle="bold"
         android:text="
-        Âm nhạc là để chia sẽ. Có âm nhạc cuộc sống tươi đẹp hơn, đó chính là những lý do để cho bạn có thêm động lực học đàn guitar, học đàn guitar để chia sẻ. Với mục đích giúp các bạn có thể chơi đàn mọi lúc mọi nơi, mình viết phần mềm này hi vọng sẽ giúp các bạn một phần nào đó xoã cùng với cây đàn.\n\tMọi ý kiến các bạn có thể gửi về tamchau2809@gmail.com để góp ý.\n\tXin cảm ơn các bạn... :)" />
+        Âm nhạc là để chia sẻ. Có âm nhạc cuộc sống tươi đẹp hơn, đó chính là những lý do để cho bạn có thêm động lực học đàn guitar, học đàn guitar để chia sẻ. Với mục đích giúp các bạn có thể chơi đàn mọi lúc mọi nơi, mình viết phần mềm này hi vọng sẽ giúp các bạn một phần nào đó xoã cùng với cây đàn.\n\tMọi ý kiến các bạn có thể gửi về tamchau2809@gmail.com để góp ý.\n\tXin cảm ơn các bạn... :)" />
 
     <ImageView
         android:id="@+id/imageView1"
