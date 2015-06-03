@@ -9,8 +9,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.app.Activity;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.view.View;
 import android.content.Intent;
 
