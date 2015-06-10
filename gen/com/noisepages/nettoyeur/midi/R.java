@@ -11,8 +11,8 @@ public final class R {
 		public static final int din5 = 0x7f02003c;
 	}
 	public static final class id {
-		public static final int paired_devices = 0x7f0a0066;
-		public static final int title_paired_devices = 0x7f0a0065;
+		public static final int paired_devices = 0x7f0e0066;
+		public static final int title_paired_devices = 0x7f0e0065;
 	}
 	public static final class layout {
 		public static final int device_list = 0x7f03001f;
