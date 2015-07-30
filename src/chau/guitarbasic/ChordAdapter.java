@@ -25,5 +25,9 @@ public class ChordAdapter extends Adapter {
 		
 		return v;
 	}
+	public void cusFilter(String input)
+	{
+		input = input.trim().toLowerCase();
+	}
 }
 
